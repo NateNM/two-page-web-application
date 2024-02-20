@@ -1,5 +1,7 @@
 # two-page-web-application
 
+This project is a two-page web application built with Vue.js.
+
 ## Project setup
 ```
 npm install
@@ -14,6 +16,20 @@ npm run serve
 ```
 npm run build
 ```
+
+###Usage
+
+When the application loads, it fetches product details from the API and displays them in a card format.
+If the product details are successfully fetched, they are displayed.
+If there's an error fetching the data, an error message is displayed.
+You can view the product details including name, description, price, category, and features.
+
+###Technologies Used
+Vue.js
+Vue Router
+Fetch API
+HTML
+CSS (SCSS)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
