@@ -1,0 +1,27 @@
+Take-home assessment using Vue 3, TypeScript, and some common libraries.
+
+Task Description:
+Create a Vue 3 application that includes the following features:
+Router: Implement a simple two-page application using Vue Router. The first page should be a dashboard, and the second page should display details for a specific item.
+DataGrid: Create a DataGrid component to display a list of items on the dashboard page. The data should be fetched from an API of your choice (simulated data or use a service like JSONPlaceholder).
+Cards: Each item in the DataGrid should be displayed as a card. The card should show basic information about the item.
+API Fetch: Use an API or a library like Axios to fetch data from the API. Display this data in the DataGrid and on the detail page.
+Styling: Apply some basic styling to make the UI visually appealing. You can use a CSS framework like Bootstrap or Tailwind CSS, or just plain CSS.
+Requirements:
+Use Vue 3 with TypeScript.
+Utilize Vue Router for navigation.
+Implement a DataGrid component for displaying a list of items.
+Create a Card component for each item in the DataGrid.
+Fetch data from a fake API using the Fetch API or Axios.
+Apply basic styling to enhance the visual appeal.
+Evaluation Criteria:
+Candidates will be evaluated on the following:
+Vue and TypeScript Knowledge: Proper usage of Vue features and TypeScript.
+Routing: Correct implementation of Vue Router for navigation.
+DataGrid and Cards: Implementation of DataGrid and Cards components.
+API Fetch: Proper handling of API requests and displaying fetched data.
+Styling: Effective use of styling to create a visually appealing UI.
+Additional Notes:
+Candidates should provide a brief README explaining how to run the application.
+Encourage candidates to manage state using the Composition API.
+Prioritize code readability and maintainability over complexity.
