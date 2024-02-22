@@ -33,5 +33,9 @@ You can view the product details including name, description, price, category, a
 - HTML
 - CSS (SCSS)
 
+### Resources
+The JSON data used comes from GoogleChromeLabs' Sample Pie Shop repo:
+- https://github.com/GoogleChromeLabs/sample-pie-shop/blob/master/src/data/products.json
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
